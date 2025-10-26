@@ -2,7 +2,7 @@
   "name": "WeVa Coin",
   "symbol": "WV",
   "description": "WeVa Coin — token de récompense pour les achats sur le site WeVa.",
-  "image": "https://ibb.co/zWBnNJpL",
+  "image": "https://raw.githubusercontent.com/yaro-an/weva-token/main/weva-logo-512.png",
   "external_url": "https://weva-project.com",
   "seller_fee_basis_points": 0,
   "attributes": [
@@ -11,7 +11,7 @@
   "properties": {
     "category": "token",
     "files": [
-      { "uri": "https://ibb.co/zWBnNJpL", "type": "image/png" }
+      { "uri": "https://raw.githubusercontent.com/yaro-an/weva-token/main/weva-logo-512.png", "type": "image/png" }
     ],
     "creators": [
       { "address": "DrXq7DfP1a98W6vrthz9kRvkhc9tgh15pBQMjimSd9Vqq", "share": 100 }

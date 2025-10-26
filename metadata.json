@@ -1,0 +1,20 @@
+{
+  "name": "WeVa Coin",
+  "symbol": "WV",
+  "description": "WeVa Coin — token de récompense pour les achats sur le site WeVa.",
+  "image": "https://ibb.co/zWBnNJpL",
+  "external_url": "https://weva-project.com",
+  "seller_fee_basis_points": 0,
+  "attributes": [
+    { "trait_type": "Utility", "value": "Reward Token" }
+  ],
+  "properties": {
+    "category": "token",
+    "files": [
+      { "uri": "https://ibb.co/zWBnNJpL", "type": "image/png" }
+    ],
+    "creators": [
+      { "address": "DrXq7DfP1a98W6vrthz9kRvkhc9tgh15pBQMjimSd9Vqq", "share": 100 }
+    ]
+  }
+}

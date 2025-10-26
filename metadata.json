@@ -1,6 +1,7 @@
 {
   "name": "WeVa Coin",
   "symbol": "WV",
+  "uri": "https://raw.githubusercontent.com/yaro-an/weva-token/main/metadata.json",
   "description": "WeVa Coin — token de récompense pour les achats sur le site WeVa.",
   "image": "https://raw.githubusercontent.com/yaro-an/weva-token/main/weva-logo-512.png",
   "external_url": "https://weva-project.com",
@@ -11,10 +12,13 @@
   "properties": {
     "category": "token",
     "files": [
-      { "uri": "https://raw.githubusercontent.com/yaro-an/weva-token/main/weva-logo-512.png", "type": "image/png" }
-    ],
-    "creators": [
-      { "address": "DrXq7DfP1a98W6vrthz9kRvkhc9tgh15pBQMjimSd9Vqq", "share": 100 }
+      {
+        "uri": "https://raw.githubusercontent.com/yaro-an/weva-token/main/weva-logo-512.png",
+        "type": "image/png"
+      }
     ]
-  }
+  },
+  "creators": [
+    { "address": "DrXq7DFp1a98W6vrhtz9kRvkhc9tgh15pBQMjimSd9Vqq", "share": 100 }
+  ]
 }
